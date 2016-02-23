@@ -1,0 +1,108 @@
+article {
+background-color: #D6D9BC;
+font-size: 15pt;
+margin: 10px;
+overflow: auto;
+padding: 10px;
+}
+
+aside {
+float: right;
+margin-top: -650px;
+width: 25%;
+}
+
+body {
+background-color: #44344A;
+border: 0px;
+margin: 0px;
+}
+
+footer {
+background-color: #63454E;
+padding: 1px 0px;
+}
+
+figcaption {
+font-size: 20pt;
+}
+
+figure {
+margin-left: 20%;
+}
+
+header {
+background-color: #44344A;
+padding: 1px 0px;
+}
+
+li {
+border-bottom: 3px solid #FFFFFC;
+margin: 20px;
+padding: 3px 0px;
+}
+
+main {
+padding: 10px;
+margin: 0% 25%;
+width: 50%;
+}
+
+nav {
+float: left;
+font-size: 20pt;
+height: inherit;
+text-align: center;
+width: 25%;
+}
+
+p {
+margin: 15px;
+font-size: 18pt;
+}
+
+section {
+background-color: #495A3C;
+margin: 0px;
+padding: 5px 0px;
+}
+
+ul {
+color: #63454E;
+list-style-type: none;
+text-align: left;
+font-size: 18pt;
+}
+
+article, article footer, article header{
+border-radius: 20px;
+}
+
+body > footer {
+font-size: 12pt;
+}
+
+body > header {
+font-size: 20pt;
+}
+
+body > footer, body > header {
+margin: -15px 0px 0px 0px;
+}
+
+header, footer {
+color: #DBE0AE;
+margin: 5px;
+}
+
+h1, figcaption{
+text-align: center;
+}
+
+figure img {
+vertical-align: top;
+}
+
+figure, nav {
+color: #FFFFFC;
+}
